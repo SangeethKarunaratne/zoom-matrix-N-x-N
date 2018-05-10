@@ -18,7 +18,7 @@ eg:
       7 7 8 8 9 9
       7 7 8 8 9 9
 	
-      input matrix
+ input matrix
           6x6	
 	  
 	  
