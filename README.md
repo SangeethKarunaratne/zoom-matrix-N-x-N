@@ -7,8 +7,8 @@ eg:
      4 5 6 
      7 8 9
     
-    input matrix 	        	
-	3x3				
+ input matrix 	        	
+      3x3				
 					    
 			                
       1 1 2 2 3 3			       		  
