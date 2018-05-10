@@ -41,7 +41,7 @@ Zooming the matrix again is possible and will result a matrix of N x 2 x 2
 
 You can keep on zooming as desired.
 
-This currently works only with N x N matrix and can be developed to zoom non square matrices such as 2 X 3 , 4 x 8 ....
+	This currently works only with N x N matrix and can be developed to zoom non square matrices such as 2 X 3 , 4 x 8 ....
 
 Please feel free to use and develop the code
 
