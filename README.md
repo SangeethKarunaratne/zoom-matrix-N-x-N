@@ -1,24 +1,33 @@
 # zoom-matrix-N-x-N
 This code was built as a sub requirement for a path finding algorithm , which will zoom a given N by N matrix by factor of 2
 
-eg :
-	1 2 3				1 1 2 2 3 3
-	4 5 6				1 1 2 2 3 3	
-	7 8 9				4 4 5 5 6 6
-				        4 4 5 5 6 6
-     input matrix 	        	7 7 8 8 9 9
-	3x3				7 7 8 8 9 9
+eg:
+
+	1 2 3
+	4 5 6
+	7 8 9				
+				        
+     input matrix 	        	
+	3x3				
 					    
-			                input matrix 
-			       		    6x6	
+			                
+      1 1 2 2 3 3			       		  
+      1 1 2 2 3 3
+      4 4 5 5 6 6 
+      4 4 5 5 6 6
+      7 7 8 8 9 9
+      7 7 8 8 9 9
 	
-	
+      input matrix
+          6x6	
+	  
+	  
 On doubling the size of the matrix the weights will be evenly distributed
 
 	1 -> 1 1
 	     1 1
 		 
-int inputMatrixLength = 3;//change this according to the size of input N - N matrix
+	int inputMatrixLength = 3;//change this according to the size of input N - N matrix
 
 Input is obtained from the zoom.txt
 
