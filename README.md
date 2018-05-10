@@ -3,11 +3,11 @@ This code was built as a sub requirement for a path finding algorithm , which wi
 
 eg:
 
-	1 2 3
-	4 5 6
-	7 8 9				
-				        
-     input matrix 	        	
+     1 2 3
+     4 5 6 
+     7 8 9
+    
+    input matrix 	        	
 	3x3				
 					    
 			                
